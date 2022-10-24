@@ -1,8 +1,11 @@
-import re
+# import re
 
+
+# def remove_brackets(line: str) -> str:
+#     return re.findall(r"\(.*\)", line)
 
 def remove_brackets(line: str) -> str:
-    return re.findall(r"\(.*\)", line)
+    pass
 
 
 if __name__ == "__main__":
